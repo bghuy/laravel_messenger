@@ -73,7 +73,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 2. download composer
 3. run php artisan migrate
 4. run composer require laravel/breeze --dev
-   -> choose react
-   -> choose dark
-   -> choose 0
-5. run php artisan serve
+5. -> choose react
+6. -> choose dark
+7. -> choose 0
+8. run php artisan serve
